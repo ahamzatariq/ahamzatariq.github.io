@@ -4,19 +4,31 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "57792c0c2cc01eb2e9f5fb716586a797",
-"index.html": "982c840aaa9a892d8bb70f592105af4f",
-"/": "982c840aaa9a892d8bb70f592105af4f",
-"main.dart.js": "eb504be2cf9bcdb1dc925e0ccb0483cf",
+"index.html": "d16e4f714eb5b766222dbbc13395fc62",
+"/": "d16e4f714eb5b766222dbbc13395fc62",
+"main.dart.js": "db58d7d7bf58dfdf8c8713a3c533849d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "0e77d1c73195f973b918e8c749eec777",
-"assets/AssetManifest.json": "45c14a9fb80c2b79bb5fd26e8e4c36cb",
+"assets/web/assets/profile.jpg": "cfaf26295ac5d98c878309ed72451236",
+"assets/AssetManifest.json": "e5025c8fe733c49fe1733e014ecc6211",
 "assets/NOTICES": "75b176ff728807e42dfb2fc69c04bd48",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/profile.jpg": "cfaf26295ac5d98c878309ed72451236",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/assets/profile.jpg": "cfaf26295ac5d98c878309ed72451236"
+"assets/google_fonts/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
+"assets/google_fonts/OpenSans-Light.ttf": "2d0bdc8df10dee036ca3bedf6f3647c6",
+"assets/google_fonts/OpenSans-Italic.ttf": "f6238deb7f40a7a03134c11fb63ad387",
+"assets/google_fonts/OpenSans-ExtraBold.ttf": "fb7e3a294cb07a54605a8bb27f0cd528",
+"assets/google_fonts/OpenSans-LightItalic.ttf": "c147d1302b974387afd38590072e7294",
+"assets/google_fonts/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
+"assets/google_fonts/OpenSans-SemiBoldItalic.ttf": "4f04fe541ca8be9b60b500e911b75fb5",
+"assets/google_fonts/OpenSans-ExtraBoldItalic.ttf": "a10effa3ed22bb89dd148e0018a7a761",
+"assets/google_fonts/LICENSE.txt": "d273d63619c9aeaf15cdaf76422c4f87",
+"assets/google_fonts/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
+"assets/google_fonts/OpenSans-BoldItalic.ttf": "3a8113737b373d5bccd6f71d91408d16"
 };
 
 // The application shell files that are downloaded before a service worker can
